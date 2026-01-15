@@ -46,6 +46,8 @@ Essa arquitetura foi representada por meio de containers Docker, simulando um pi
 
 **Insight_Career.pbix**    → Arquivo do Power BI com o dashboard
 
+**Insight_Career.png**  → Arquivo png da arquitetura
+
 **README.me**                → Documentação do projeto
 
 **docker**               → Scripts e estrutura da arquitetura simulada
